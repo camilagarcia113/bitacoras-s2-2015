@@ -6,6 +6,7 @@
 
  - Sitio de la materia: https://sites.google.com/site/programacionhm/unq
  - Github con ejemplos de la materia https://github.com/orgs/uqbar-paco (tip: filren por "obj3")
+ - Canal de youtube: https://www.youtube.com/channel/UC20rhT1zAZyVRZuRqukk74Q/videos
  - Enunciado TP 1 https://docs.google.com/document/d/1BQEu4CZwJBTpduVg93Fwn8IQWlmnZE978qIB_6ZU_L8/edit?usp=sharing
 
 ## Qué vimos
